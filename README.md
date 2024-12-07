@@ -1,4 +1,6 @@
-### This is a University Timetable application that shows and filters courses according to their levels.
+# University Timetable Mini Project
+
+### This is a University Timetable application that shows and filters courses according to their levels. It uses Flask, Docker, PostgreSQL, HTML, CSS.
 
 ![example1](https://github.com/FenderBlackStrat/mini-project/blob/main/example%20(1).png)
 ![example2](https://github.com/FenderBlackStrat/mini-project/blob/main/example%20(2).png)
